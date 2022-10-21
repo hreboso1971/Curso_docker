@@ -5,7 +5,7 @@ on: push
 name: deploy  
 jobs:
   deploy:
-  name: deploy de prueba
+  name: deploy
   runs-on: ubuntu-latest
   steps:
   -run: echo "Estamos ejecutando nuestro wprkflow"
